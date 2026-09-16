@@ -1,5 +1,6 @@
-# Sociedad 50/50 v1.3 — Dashboard Pro
-Rediseño completo: dashboard oscuro moderno, tarjetas dinámicas, progreso de cada deuda, porcentaje pagado/restante, participación Víctor/Carlos y botones renovados.
+# Sociedad 50/50 v1.4 — Layout del ejemplo
+La aplicación fue rediseñada para reproducir la estructura visual del ejemplo solicitado:
+sidebar, tarjetas superiores, gráfico circular de Víctor/Carlos, progreso circular de deudas,
+acciones laterales, movimientos recientes y tabla de deudas.
 
-Mantiene Supabase y la opción de registrar nueva deuda.
-Si aún no ejecutaste `002_allow_debt_insert.sql`, ejecútala en Supabase SQL Editor.
+Mantiene Supabase y los datos reales/dinámicos. No se reemplazó la app por una imagen.
